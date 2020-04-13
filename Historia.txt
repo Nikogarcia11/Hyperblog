@@ -1,7 +1,10 @@
 Esta es la hisstoria de Nicolas Garcia
 
 	Nico-Student es un contribuyente a este proyecto open source
-        Tiene 21 años y actualmente esta tomando un curso de platzi
+	Sus nombres son iguales pero son diferentes personas
+	Tiene 21 años y actualmente esta tomando un curso de platzi
         Le gusta y desea aprender lo máximo que pueda
+	
+
 
 Jesús es su pastor
